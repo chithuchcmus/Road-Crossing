@@ -1,5 +1,5 @@
 # Road-Crossing
-game usig  OOP and c++ language
+game using  OOP and c++ language
 
 in this game, you control human avoid obstacles and get destination by use A,D,W,S 
 
